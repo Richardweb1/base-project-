@@ -1,5 +1,5 @@
 # base-project-
-git init
+git init .
    git add .
    git commit -m "Initial commit - Base transaction monitor"
    git branch -M main
